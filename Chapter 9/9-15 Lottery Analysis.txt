@@ -1,7 +1,0 @@
-# 9-15 Lottery Analysis
-my_ticket = 1
-
-Tickets = []
-for x in range(1,10):
-    Tickets.append(x)
-print(Tickets)
