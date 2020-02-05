@@ -1,0 +1,3 @@
+In Python you can use all sorts of functions that come standard with the Python 3 library.
+In Python you can use classes and objects to simulate real-world things.
+In Python you can read from, write to files in order to store and analyze data.

@@ -1,0 +1,75 @@
+Because it allows me to make things and innovate in interesting ways in a virtual world.
+I can design my own functions that model real world things.
+Cause its FUCKING COOL BRO
+idk
+cause why not
+hmm
+234
+# 10-5 Programming Poll
+
+file_path = "C:\\Users\\User\\Code_Environment\\Python Work\\Chapter_10\\programming_polls.txt"
+flag = True
+welcome_msg = ("Type \"quit\" to quit.")
+
+with open(file_path, 'a') as f:
+    while flag == True:
+        print("Why do you like programming?")
+        print(welcome_msg)
+        reason = input()
+        if reason.lower() == "quit":
+            flag = False
+        else:
+            f.write(reason + "\n")
+
+
+# 10-5 Programming Poll
+
+file_path = "C:\\Users\\User\\Code_Environment\\Python Work\\Chapter_10\\programming_polls.txt"
+flag = True
+welcome_msg = ("Type \"quit\" to quit.")
+print(welcome_msg)
+
+with open(file_path, 'a') as f:
+    while flag == True:
+        print("Why do you like programming?")
+        reason = input()
+        if reason.lower() == "quit":
+            flag = False
+        else:
+            f.write(reason + "\n")
+
+# 10-5 Programming Poll
+
+file_path = "C:\\Users\\User\\Code_Environment\\Python Work\\Chapter_10\\programming_polls.txt"
+flag = True
+welcome_msg = ("Type \"quit\" to quit.")
+print(welcome_msg)
+
+with open(file_path, 'a') as f:
+    while flag == True:
+        print("Why do you like programming?")
+        reason = input()
+        if reason.lower() == "quit":
+            flag = False
+        else:
+            f.write(reason + "\n")
+
+cause
+its kinda cool
+i guess
+
+
+
+
+
+
+
+
+
+
+
+
+
+Haha
+onetwothree
+fourfivesix
