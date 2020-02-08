@@ -14,7 +14,7 @@ def greet_user():
             datastore = json.load(f)
             # Greet the user with their stored username and number.
             for k,v in datastore.items():
-                print(f"Welcome back {k.title()}, we remeber your favorite number to be {v}.")
+                print(f"Welcome back {k.title()}, we remember your favorite number to be {v}.")
     except FileNotFoundError:
         # If they do not exist, ask for their favorite number
         # Then store this information by calling the store_new_user funct
